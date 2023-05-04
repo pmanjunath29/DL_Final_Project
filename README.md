@@ -1,4 +1,4 @@
-# CS4803-Novel-Object-Tracking
+# Novel-Object-Tracking
 
 ## Datasets
 
